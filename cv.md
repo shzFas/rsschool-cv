@@ -1,16 +1,17 @@
 ### Zharlikov Yuriy
 
 ---
+---
 
 #### Contact information:
 
 ---
 
-Location: Karaganda, Kazakhstan
-Phone: +7 707 293 13 66
-Email: shzfas.official@gmail.com
-Github: https://github.com/shzfas
-Telegram: https://t.me/shzfas
+**Location:** Karaganda, Kazakhstan
+**Phone:** +7 707 293 13 66
+**Email:** <shzfas.official@gmail.com>
+**Github:** <https://github.com/shzfas>
+**Telegram:** <https://t.me/shzfas>
 
 #### Some words about myself:
 
@@ -28,16 +29,19 @@ React, JS, HTML & CSS
 #### Code example:
 
 ---
-
+```
 function multiply(a, b) {
   return a * b;
 }
 
 let result = multiply(2, 5);
 alert( result );
+```
 
-Work experience:
-Full-Stack developer in web-studio
+#### Work experience:
+
+---
+**Full-Stack developer**
 PHP-developer in web-studio
 Frontend react developer in startup
 
@@ -45,16 +49,15 @@ Frontend react developer in startup
 
 ---
 
-Student, KarTU 
+**Student, KarTU**
 Software Developer
 
-RS School Course «JavaScript/Front-end. Stage 0» https://rs.school/js-stage0/ (in progress)
+[RS School Course «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress)
 
 ### Languages:
 
 ---
 
-Languages:
-English: B1
-Czech: B1
-Russian: native
+**English:** B1
+**Czech:** B1
+**Russian:** native
